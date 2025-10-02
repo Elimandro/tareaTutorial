@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>¿Qué es Python?</title>
+</head>
+<body>
+  <h2 style="color:darkblue">¿Qué es Python?</h2>
+  <p style="color:yellow;background-color:darkblue">
+    Python es un lenguaje de programación muy usado por su sencillez y claridad. 
+    Sirve para web, datos, inteligencia artificial y más.
+  </p>
+</body>
+</html>
